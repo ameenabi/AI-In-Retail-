@@ -2,6 +2,8 @@ import cv2, os
 import numpy as np
 from matplotlib import pyplot as plt
 
+print("Hi")
+
 path = "./inputs/"
 files = os.listdir(path)
 
